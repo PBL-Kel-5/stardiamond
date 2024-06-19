@@ -12,7 +12,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 30.365</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 30.365</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -27,7 +27,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 1.441.897</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 1.441.897</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -42,7 +42,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 793.000</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 793.000</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -57,7 +57,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 439.000</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 439.000</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -72,7 +72,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 299.000</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 299.000</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -90,7 +90,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 30.365</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 30.365</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -105,7 +105,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 1.441.897</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 1.441.897</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -120,7 +120,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 793.000</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 793.000</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -135,7 +135,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 439.000</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 439.000</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
@@ -150,7 +150,7 @@
                 <p class="m-0"><i class="fa-regular fa-star"></i> 5+</p>
             </div>
             <div class="card-footer d-flex flex-row justify-content-between align-items-center">
-                <p class="m-0" style="font-size 16px; font-weight: 600;">Rp. 299.000</p>
+                <p class="m-0" style="font-size: 16px; font-weight: 600;">Rp. 299.000</p>
                 <button class="btn btn-outline-primary" style="font-size: 24px;">
                     <i class="fa-solid fa-cart-plus"></i>
                 </button>
